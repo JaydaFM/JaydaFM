@@ -2,7 +2,7 @@ Github - @JaydaFM. Instagram - @j4jayda. Illustration Instagram - @jayda.doodles
 
 Hi! 🌊
 My name is Jayda Felix-Mounlath. 
-I am Laos, Samoan and Kiwi; bought up in Auckland. 🌴
+I am Laotian, Samoan and Kiwi; bought up in Auckland. 🌴
 
 I’m currently learning to be a Full Stack Developer at Mission Ready HQ.
 So far I have learnt aspects in HTML, CSS, Javascript, Node.js, MySQL, MUI, Mongodb, Docker and React.js. 
